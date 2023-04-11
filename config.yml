@@ -1,3 +1,4 @@
+title: "cartographie-acteurs-design"
 files_origin: ./fiches/
 export_target: ./public
 select_origin: "directory"
@@ -10,6 +11,9 @@ history: true
 focus_max: 2
 record_types:
   undefined:
+    fill: "#858585"
+    stroke: "#858585"
+  association:
     fill: "#858585"
     stroke: "#858585"
 link_types:
