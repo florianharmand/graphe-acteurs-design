@@ -1,0 +1,8 @@
+---
+title: LA BOBINE
+id: "20230411170244"
+types:
+  - undefined
+---
+
+LINK TO [[20230411155116]] ACTEURS DU DESIGN
