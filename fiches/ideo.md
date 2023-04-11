@@ -1,8 +1,0 @@
----
-title: IDEO
-id: "20230411155041"
-types:
-  - undefined
----
-
-LINKED TO [[20230411155116]] ACTEURS DU DESIGN

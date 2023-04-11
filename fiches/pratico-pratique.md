@@ -1,0 +1,8 @@
+---
+title: PRATICO PRATIQUE
+id: "20230411170049"
+types:
+  - undefined
+---
+
+LINK TO [[20230411155116]] ACTEURS DU DESIGN
