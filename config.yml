@@ -11,9 +11,12 @@ history: true
 focus_max: 2
 record_types:
   undefined:
-    fill: "#858585"
+    fill: "#dddddd"
     stroke: "#858585"
   association:
+    fill: "#858585"
+    stroke: "#858585"
+  entreprise:
     fill: "#858585"
     stroke: "#858585"
 link_types:
