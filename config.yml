@@ -1,5 +1,5 @@
 files_origin: ./fiches/
-export_target: ./public/
+export_target: ./public
 select_origin: "directory"
 nodes_origin: ""
 links_origin: ""
