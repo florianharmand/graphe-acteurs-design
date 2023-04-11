@@ -1,0 +1,8 @@
+---
+title: 27em REGION
+id: "20230411155257"
+types:
+  - undefined
+---
+
+LINKED TO [[20230411155116]] ACTEURS DU DESIGN
